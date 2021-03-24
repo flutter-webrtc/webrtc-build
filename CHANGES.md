@@ -12,6 +12,23 @@
 VERSION ファイルを上げただけの場合は変更履歴記録は不要。
 パッチやビルドの変更のみ記録すること。
 
+## master
+
+## m89.4389.5.6
+
+- [ADD] Android にサイマルキャスト対応のパッチを追加
+    - @szktty @enm10k
+
+## m89.4389.5.5
+
+- [FIX] Android で SEGV することがあるのを修正
+    - @melpon
+
+## m89.4389
+
+- [CHANGE] ubuntu-18.04_armv8 向けに `libjpeg_mangle.patch` を追加
+    - @tnoho @melpon
+
 ## m88.4324.3.1
 
 - [ADD] Apple Silicon 用ビルド (macos_arm64) を追加

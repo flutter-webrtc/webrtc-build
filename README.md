@@ -1,13 +1,14 @@
 # webrtc-build
 
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/shiguredo-webrtc-build/webrtc-build.svg)](https://github.com/shiguredo/momo)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/shiguredo-webrtc-build/webrtc-build.svg)](https://github.com/shiguredo-webrtc-build/webrtc-build)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Actions Status](https://github.com/shiguredo-webrtc-build/webrtc-build/workflows/build/badge.svg)](https://github.com/shiguredo-webrtc-build/webrtc-build/actions)
 
-## About Support
+## About Shiguredo's open source software
 
-We check PRs or Issues only when written in JAPANESE.
-In other languages, we won't be able to deal with them. Thank you for your understanding.
+We will not respond to PRs or issues that have not been discussed on Discord. Also, Discord is only available in Japanese.
+
+Please read https://github.com/shiguredo/oss/blob/master/README.en.md before use.
 
 ## 時雨堂のオープンソースソフトウェアについて
 
@@ -69,12 +70,16 @@ limitations under the License.
 ### Contributing
 
 - melpon - *Original Author*
-    - Android support
-    - iOS Support
-    - CentOS 8 support
+    - Android サポート
+    - iOS サポート
+    - CentOS 8 サポート
 - tnoho - *Original Author*
-    - AV1 support for macOS
-    - H.265 Support for macOS
+    - macOS 向け AV1 サポート
+    - macOS 向け H.265 サポート
 - hakobera
-    - Ubuntu 20.04 x86_64 support
-    - macOS 11 arm64 support
+    - Ubuntu 20.04 x86_64 サポート
+    - macOS 11 arm64 サポート
+- enm10k
+    - iOS 向けデバッグビルド追加
+- soudegesu
+    - macOS 向け ObjC ヘッダー追加
